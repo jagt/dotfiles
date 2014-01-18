@@ -1,0 +1,9 @@
+[user]
+name = jagt
+email = jagt@live.com
+[color]
+ui = true
+[log]
+abbrevCommit = true
+[format]
+pretty = oneline

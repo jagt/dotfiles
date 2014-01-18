@@ -1,0 +1,2 @@
+# should manually source this
+export EDITOR=vim
