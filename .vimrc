@@ -22,3 +22,8 @@ set novisualbell
 set t_vb=
 set tm=500
 
+" prefer spaces
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4

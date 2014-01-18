@@ -1,2 +1,22 @@
-# should manually source this
+# should manually source this with:
+# source ~/.bash_custom
 export EDITOR=vim
+
+# larger history
+export HISTSIZE=10000
+export HISTFILESIZE=$HISTSIZE
+export HISTCONTROL=ignoredups
+
+# alias
+if [ -f `which ack-grep` ]; then
+    alias ack="ack-grep"
+fi
+
+# easier navigation: .., ..., ...., .....
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+
+
+
