@@ -1,6 +1,7 @@
 # should manually source this with:
 # source ~/.bash_custom
 export EDITOR=vim
+set -o vi
 
 # larger history
 export HISTSIZE=10000

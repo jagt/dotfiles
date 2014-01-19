@@ -17,10 +17,9 @@ set writebackup
 set noswapfile
 
 " no bell
-set noerrorbells
-set novisualbell
+set visualbell
 set t_vb=
-set tm=500
+set noeb
 
 " prefer spaces
 set expandtab
