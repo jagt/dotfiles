@@ -26,3 +26,6 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
+
+" cpp 11
+au BufNewFile,BufRead *.cpp,*.cc set syntax=cpp11

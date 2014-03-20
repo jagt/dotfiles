@@ -7,3 +7,6 @@ ui = true
 abbrevCommit = true
 [format]
 pretty = oneline
+[alias]
+ci = commit
+st = status
