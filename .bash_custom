@@ -22,6 +22,7 @@ alias ......="cd ../../../../.."
 
 alias ll="ls -alh"
 alias clang11="clang++ --std=c++11 -stdlib=libc++"
+alias gmake="make"
 
 
 

@@ -10,3 +10,4 @@ pretty = oneline
 [alias]
 ci = commit
 st = status
+cached = diff --cached
