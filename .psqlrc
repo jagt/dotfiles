@@ -1,0 +1,8 @@
+-- auto format
+\x auto
+-- show error code
+\set VERBOSITY verbose
+-- timing
+\timing
+\pset null ¤
+\pset border 0

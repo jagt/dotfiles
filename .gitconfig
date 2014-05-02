@@ -11,3 +11,7 @@ pretty = oneline
 ci = commit
 st = status
 cached = diff --cached
+[core]
+	autocrlf = input
+[push]
+	default = simple
